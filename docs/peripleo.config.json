@@ -1,7 +1,7 @@
 {
   "initial_bounds": [34, 31, 36, 34],
   "map_style": "./map-style-OSM.json",
-  "data": [
+  "data":  [
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
