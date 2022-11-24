@@ -10,7 +10,12 @@
     }
   ],
   "facets": [
-    "type"
+    "type",
+    { "name": "אזור", "path": ["properties", "region_type"] },
+    { "name": "מצב הנכס", "path": ["properties", "state_type"] },
+    { "name": "סל'ן", "path": ["properties", "salan_type"] },
+    { "name": "תקופה", "path": ["properties", "תקופה"] } , 
+    { "name": "סוג נכס", "path": ["properties", "type"] } 
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
